@@ -1,6 +1,7 @@
 <div class="gif" align="center">
   <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="150">
 </div>
+
 Hi 👋 , I'm Devin, a Computer Science major at Temple University. 
 - ❗️ I'm interested in web development, cloud computing, API development, and machine learning.
 - 📚 I'm currently learning React.js & Typescript.
